@@ -22,5 +22,3 @@ $ conda activate py37
 ```
 
 En Windows es necesario verificar que el directorio de Python esté incluido en el path de las variables de entorno.
-
-
