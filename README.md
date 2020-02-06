@@ -38,5 +38,5 @@ A continuación dejo algunos sitios y lecturas que podrían ser útiles para el 
 
 - [Codecademy](https://www.codecademy.com/): plataforma web orientada a la educación y promoción del aprendizaje de diferentes áreas de la computación como programación, ciencia de datos y desarrollo web.
 
-# Issues
-Por favor sientanse libres de dejar comentarios, sugerencias u observaciones en la sección de issues de este repositorio.
+# Feedback
+Por favor sientanse libres de dejar comentarios, sugerencias u observaciones en la sección de [Issues](https://github.com/cpieringer/intro_python/issues) de este repositorio.
