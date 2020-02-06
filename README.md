@@ -37,3 +37,6 @@ A continuación dejo algunos sitios y lecturas que podrían ser útiles para el 
 - [HackerRank](http://www.hackerrank.com): plataforma web de reclutamiento de fuerza laboral en áreas de tecnología. Puede ser utilizada también para el aprendizaje y práctica de programación.
 
 - [Codecademy](https://www.codecademy.com/): plataforma web orientada a la educación y promoción del aprendizaje de diferentes áreas de la computación como programación, ciencia de datos y desarrollo web.
+
+# Issues
+Por favor sientanse libres de dejar comentarios, sugerencias u observaciones en la sección de issues de este repositorio.
