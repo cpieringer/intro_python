@@ -23,6 +23,14 @@ $ conda activate py37
 
 En Windows es necesario verificar que el directorio de Python esté incluido en el path de las variables de entorno.
 
+# Herramientas de desarrollo
+Aun cuando Python es un lenguaje interpretado que permite ejecutar sentencias directamente desde una consola, es recomendable utilizar un IDE para facilitar el desarrollo, la búsqueda de errores y depuración, mantenimiento del código, entre otras. Algunos IDE compatibles con Python son:
+
+- [PyCharm](https://www.jetbrains.com/es-es/pycharm/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+- [Jupyter Notebooks](https://jupyter.org/)
+
 # Recursos Externos
 A continuación dejo algunos sitios y lecturas que podrían ser útiles para el aprendizaje y práctica de programación en Python.
 
