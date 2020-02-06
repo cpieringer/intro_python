@@ -4,7 +4,7 @@
 - email: cpieringer@inacap.cl
 - github: [cpieringer](https://github.com/cpieringer)
 
-Este repositorio contienen el material del taller de introducción a Python.
+Este repositorio contiene material práctico para la introducción a la a programación en Python. El material está enfocado a quienes tienen conocimiento de programación y necestian partir con la programación en este lenguaje. Aun cuando describe brevemente algunos conceptos usados en programación, no es un curso de introducción a la programación.
 
 # Notas de instalación
 Antes de comenzar con el tutorial es necesario tener instalado el interprete Python 3.7. el que puede ser descargado desde:
@@ -22,3 +22,10 @@ $ conda activate py37
 ```
 
 En Windows es necesario verificar que el directorio de Python esté incluido en el path de las variables de entorno.
+
+# Recursos Externos
+A continuación dejo algunos sitios y lecturas que podrían ser útiles para el aprendizaje y práctica de programación en Python.
+
+- [HackerRank](http://www.hackerrank.com): plataforma web de reclutamiento de fuerza laboral en áreas de tecnología. Puede ser utilizada también para el aprendizaje y práctica de programación.
+
+- [Codecademy](https://www.codecademy.com/): plataforma web orientada a la educación y promoción del aprendizaje de diferentes áreas de la computación como programación, ciencia de datos y desarrollo web.
