@@ -1,7 +1,7 @@
 # Introducción a Python
 
 *Christian Pieringer*
-- email: cpieringer@inacap.cl
+- email: cpieringer@uc.cl
 - github: [cpieringer](https://github.com/cpieringer)
 
 Este repositorio contiene material práctico para la introducción a la a programación en Python. El material está enfocado a quienes tienen conocimiento de programación y necestian partir con la programación en este lenguaje. Aun cuando describe brevemente algunos conceptos usados en programación, no es un curso de introducción a la programación.
