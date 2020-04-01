@@ -29,7 +29,7 @@ Aun cuando Python es un lenguaje interpretado que permite ejecutar sentencias di
 - [PyCharm](https://www.jetbrains.com/es-es/pycharm/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
-- [Jupyter Notebooks](https://jupyter.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 # Recursos Externos
 A continuación dejo algunos sitios y lecturas que podrían ser útiles para el aprendizaje y práctica de programación en Python.
